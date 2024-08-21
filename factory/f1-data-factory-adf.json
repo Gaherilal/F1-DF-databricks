@@ -1,0 +1,9 @@
+{
+	"name": "f1-data-factory-adf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3acc0688-3f8b-465a-b7e2-c91015ae4a8c",
+		"tenantId": "89bbc8b6-9f88-4e35-a3bd-15a8fa916d6d"
+	}
+}
