@@ -2,6 +2,7 @@
 	"name": "ds_formlua1_raw",
 	"properties": {
 		"linkedServiceName": {
+			
 			"referenceName": "ls_formula1dl_storage",
 			"type": "LinkedServiceReference"
 		},
